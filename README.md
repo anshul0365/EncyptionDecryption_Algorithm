@@ -1,7 +1,7 @@
 # EncyptionDecryption_Algorithm
 A custom Encryption Decryption Algorithm
 
-##Cipher Steps
+## Cipher Steps
 1. Swap the string **UpperCase** to **LowerCase** letters, and vice-versa.
 2. **Reverse** the string.
 3. Replace the **spacing** with *(star).
